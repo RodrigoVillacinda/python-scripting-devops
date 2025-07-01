@@ -20,6 +20,6 @@ jobs:
 
       - name: Ejecutar el script de la tarea
         run: |
-          cd tareas/tarea01/ejercicio01
+          cd Tareas/tarea01/ejercicio01
           python3 main.py
 
