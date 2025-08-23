@@ -7,7 +7,7 @@ def main():
 
     if numero < 100:
         print("Small")
-    elif numero > 200:
+    elif numero >= 200:
         print("Large")
     else:
         print("Medium")
