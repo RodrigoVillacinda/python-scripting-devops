@@ -4,7 +4,7 @@
 def main():
     sum = 0
     numero = 0
-    while(numero != -1):
+    while numero != -1:
         numero = int(input("Ingrese un numero: "))
         if numero == -1:
             break
