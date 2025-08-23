@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+import math
+
+
+def main():
+    numero = 0
+    print("Ingrese un numero: ")
+    numero = input("")
+    numero = int(numero)
+    numero = int(math.ceil(numero/3))
+    print("El resultado es: " + str(numero))
+
+
+if __name__ == "__main__":
+    main()
