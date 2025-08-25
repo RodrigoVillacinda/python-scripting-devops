@@ -6,7 +6,7 @@ def main():
     x = 0
     print("------Input:------")
     while x != -1:
-        x=int(input("Ingrese un numero: "))
+        x = int(input("Ingrese un numero: "))
         if x == -1:
             break
         myList.append(int(x))
@@ -15,8 +15,8 @@ def main():
     sum = 0
     for i in myList:
         sum += i
-        print(i) 
-    
+        print(i)
+
     sum = sum/len(myList)
     sum = int(sum)
     myList.insert(0, sum)
