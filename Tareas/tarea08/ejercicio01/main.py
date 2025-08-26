@@ -9,5 +9,6 @@ def main():
             sum += float(x)
     print(f"{sum:,.2f}")
 
+
 if __name__ == "__main__":
     main()
