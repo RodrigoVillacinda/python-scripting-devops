@@ -45,7 +45,7 @@ ejercicio-suma-archivo/
 3. Ejecutar el programa:
 
 ```bash
-python lab.py
+python lmain.py
 ```
 
 El programa buscará el archivo `indata.txt` y mostrará el resultado en consola.
@@ -62,3 +62,4 @@ El programa buscará el archivo `indata.txt` y mostrará el resultado en consola
 
 **Rodrigo Villacinda**  
 🚀 Training DevOps & Python scripting
+
